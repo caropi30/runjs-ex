@@ -1,0 +1,14 @@
+let name = 'Carolina';
+let nameSplit = name.split('')
+
+console.log(nameSplit.reverse())
+
+let nameJoin = nameSplit.join('')
+nameJoin
+
+
+
+
+
+
+
